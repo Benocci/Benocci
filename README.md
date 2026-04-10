@@ -36,14 +36,14 @@ I enjoy working close to the system level, building **efficient data structures 
 
 <br>
 <div align="center">
-  <a href="francescobeno@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:francescobeno@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Personal-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="f.benocci@stdenti.unipi.it">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:f.benocci@studenti.unipi.it">
+    <img src="https://img.shields.io/badge/Email-University-darkred?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/francescobenocci" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Benocci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
