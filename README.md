@@ -1,4 +1,4 @@
-<h1 align="center">Francesco Benocci</h1>
+<h1 align="center">Hi! I'm Francesco Benocci</h1>
 
 Computer Science graduate focused on efficient indexing and compression techniques for high-dimensional vector representations produced by machine learning models.
 
