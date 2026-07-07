@@ -40,7 +40,7 @@ I enjoy working close to the system level, building **efficient data structures 
   <a href="mailto:f.benocci@studenti.unipi.it">
     <img src="https://img.shields.io/badge/Email-University-darkred?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/francescobenocci" target="_blank">
+  <a href="https://linkedin.com/in/francescobenocci" target="https://www.linkedin.com/in/francesco-benocci-bb6216389/">
     <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Benocci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
