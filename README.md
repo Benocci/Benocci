@@ -16,6 +16,7 @@ I enjoy working close to the system level, building **efficient data structures 
 - Graph-based search algorithms (HNSW)
 - Compression techniques for large indexes
 - Efficient data structures for information retrieval
+- Agentic search and the retrieval layer for LLM-based systems
 
 ## 🛠️ Languages and Tools
 
@@ -34,14 +35,11 @@ I enjoy working close to the system level, building **efficient data structures 
 
 <br>
 <div align="center">
-  <a href="mailto:francescobeno@gmail.com">
+  <a href="mailto:francesco.benocci@isti.cnr.it">
     <img src="https://img.shields.io/badge/Email-Personal-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:f.benocci@studenti.unipi.it">
     <img src="https://img.shields.io/badge/Email-University-darkred?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:francesco.benocci@isti.cnr.it">
-    <img src="https://img.shields.io/badge/Email-ISTI-CNR-darkred?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/francesco-benocci-bb6216389/" target="https://linkedin.com/in/francescobenocci">
     <img src="https://img.shields.io/badge/LinkedIn-Francesco%20Benocci-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
